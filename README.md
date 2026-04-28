@@ -6,7 +6,9 @@ A collection of product-management and engineering workflows, prompts, templates
 
 ## What's in here
 
-_(Contents will grow over time — check the folders for the latest.)_
+- **[`sprint-plan.md`](./sprint-plan.md)** — A 7-phase sprint execution method for shipping a batch of tickets through spec validation → parallel review → parallel build → quality gates → release. Designed to run with Claude Code subagents.
+
+_(More to come — this list will grow over time.)_
 
 ## Usage
 
