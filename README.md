@@ -8,6 +8,7 @@ A collection of product-management and engineering workflows, prompts, templates
 
 - **[`[skill]-sprint-plan.md`](./%5Bskill%5D-sprint-plan.md)** — A 7-phase sprint execution method for shipping a batch of tickets through spec validation → parallel review → parallel build → quality gates → release. Designed to run with Claude Code subagents.
 - **[`[agent]-system-analyst.md`](./%5Bagent%5D-system-analyst.md)** — A Claude Code subagent definition that translates PM/CTO inputs into a structured plan of epics and stories with explicit dependencies, story sizing, and a clarification protocol.
+- **[`[agent]-spaghetti-code.md`](./%5Bagent%5D-spaghetti-code.md)** — A Claude Code subagent that audits code for maintainability: spaghetti patterns, unclear naming, missing docs, oversized files/functions, and high cyclomatic complexity. Returns an A-F score with categorized issues and ticket-ready recommendations.
 
 _File-prefix convention: `[skill]` = a Claude Code slash command (drop into `.claude/commands/`); `[agent]` = a Claude Code subagent (drop into `.claude/agents/`)._
 
