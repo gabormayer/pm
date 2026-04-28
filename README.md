@@ -1,5 +1,7 @@
 # pm
 
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 A collection of product-management and engineering workflows, prompts, templates, and notes I use day-to-day. Sharing in case any of it is useful to others.
 
 ## What's in here
