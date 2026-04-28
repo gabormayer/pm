@@ -7,6 +7,7 @@ A collection of product-management and engineering workflows, prompts, templates
 ## What's in here
 
 - **[`sprint-plan.md`](./sprint-plan.md)** — A 7-phase sprint execution method for shipping a batch of tickets through spec validation → parallel review → parallel build → quality gates → release. Designed to run with Claude Code subagents.
+- **[`system-analyst.md`](./system-analyst.md)** — A Claude Code subagent definition that translates PM/CTO inputs into a structured plan of epics and stories with explicit dependencies, story sizing, and a clarification protocol.
 
 _(More to come — this list will grow over time.)_
 
